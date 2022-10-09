@@ -2,7 +2,6 @@
 This is my first site in my native language Tamil
 >About me kind of page
 
->Written in **tamil**
 
 [google](http://google.com)
 
